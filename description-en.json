@@ -1,4 +1,5 @@
 {
+  "description": "Reads current portfolio state and order history from the portfolio module and emits structured portfolio event payloads.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Portfolio Events",
-      "text": "Subjective datasource implementation for SubjectivePortfolioEventsDataSource.",
+      "text": "Reads current portfolio state and order history from the portfolio module and emits structured portfolio event payloads.",
       "image": {
         "src": "/subjective_binance_portfolio_events_datasource/icon.svg",
         "alt": "Portfolio Events icon"
